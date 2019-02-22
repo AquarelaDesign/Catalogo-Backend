@@ -2,9 +2,9 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "src/loader.js",
+  "main": "loader.js",
   "scripts": {
-    "start": "node src/loader.js"
+    "start": "node loader.js"
   },
   "keywords": [],
   "author": "",
