@@ -5,7 +5,8 @@
   "main": "src/loader.js",
   "scripts": {
     "dev": "nodemon",
-    "production": "pm2 start src/loader.js --name catalogo-api"
+    "production": "pm2 start src/loader.js --name catalogo-api",
+    "start": "node src/loader.js"
   },
   "keywords": [],
   "author": "",
